@@ -13,7 +13,10 @@ h2{
 }
 
 nav{
+  padding: 5px;
   font-size: 20px;
+  background-color: #fff;
+  opacity: .7;
 }
 
 .pics{
@@ -25,6 +28,6 @@ body{
   text-align: center;
   margin-left: 10%;
   margin-right: 10%;
-  background-image: url("img/mtfuji.jpg");
   background-color: #cccccc;
+  background-image: url("img/mtfuji.jpg");
 }
